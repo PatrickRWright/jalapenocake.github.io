@@ -1,5 +1,5 @@
 
-{% include_relative test/README.md %}
+{% include_relative https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/README.md %}
 
 ## Welcome to GitHub Pages
 
